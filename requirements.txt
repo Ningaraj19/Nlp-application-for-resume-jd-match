@@ -4,5 +4,4 @@ matplotlib
 ipykernel
 streamlit
 scikit-learn
-utils
 nltk
